@@ -9,20 +9,16 @@ Cette instant hors du temps, ce moment unique et ce temps transcendant, cette ch
 # Bug?!
 *Si tu vois un oiseau blanc sur le lac, c'est un signe.* Mais peu de chance de voir le lac des cygnes sans **balais**. Apparemment dans tous les opéras `grouillent` des petits rats.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Encore une tortue ninja ???
 
 Le temps? Qu'est-ce que le temps? Conception très humaine, au niveau phyisque il n'existe pas. Il n'y a qu'une succession d'instant t. On pourrait par contre se baser sur le concept d'entropie pour donner du sens au temps, ou du moins à sa direction. La matière tend à être de plus en plus désorganisée, et autant il est facile de casser une tasse ou de vieillir, il est plus compliquer de recoller la tasse atome par atome dans son état initiale comme il est assez compliqué de rajeunir. Donc on peut dire que le temps avance, autant en profiter sous les cocotiers et faire ce qu'on aime  ^^ Enjoy
 =======
-<<<<<<< HEAD
 ## Erreur 404  
 **System not found**  
 
-=======
 Encore une tortue ninja ???
 ~~non c'est des bisounours~~
->>>>>>> 48321a75b36e224f872cbe0bc1b53900f1290e33
 <<<<<<< HEAD
 >>>>>>> b22482717d2b12a3e5aae5b4e736bb9feafd0724
 =======
