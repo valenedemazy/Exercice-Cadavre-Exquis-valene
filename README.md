@@ -9,14 +9,15 @@ Cette instant hors du temps, ce moment unique et ce temps transcendant, cette ch
 # Bug?!
 *Si tu vois un oiseau blanc sur le lac, c'est un signe.* Mais peu de chance de voir le lac des cygnes sans **balais**. Apparemment dans tous les opéras `grouillent` des petits rats.
 
-<<<<<<< HEAD
-## Erreur 404  
-**System not found**  
-
-=======
 Encore une tortue ninja ???
 ~~non c'est des bisounours~~
->>>>>>> 48321a75b36e224f872cbe0bc1b53900f1290e33
 
+
+<<<<<<< HEAD
 Hé Cindy, ça te dit un cinéma samedi ? 
 - *Ouai ça me dit samedi !*
+
+
+*ajout Isma*
+
+Quelle ne fut pas la surprise de tout le monde lors qu'un ane en mobilette débarqua en roue arrière venant des couloirs de l'enfer la gorge plein de glaire de la galere en roulant un sdeh ! 
