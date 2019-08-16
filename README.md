@@ -17,3 +17,10 @@ Cette instant hors du temps, ce moment unique et ce temps transcendant, cette ch
 Encore une tortue ninja ???
 ~~non c'est des bisounours~~
 >>>>>>> 48321a75b36e224f872cbe0bc1b53900f1290e33
+
+
+*ajout Isma*
+
+Quelle ne fut pas la surprise de tout le monde lors qu'un ane en mobilette débarqua en roue arrière venant des couloirs de l'enfer la gorge plein de glaire de la galere en roulant un sdeh ! 
+
+*fin d'ajout*
