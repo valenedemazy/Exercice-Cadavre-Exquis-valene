@@ -22,4 +22,14 @@ Le temps? Qu'est-ce que le temps? Conception très humaine, au niveau phyisque i
 Encore une tortue ninja ???
 ~~non c'est des bisounours~~
 >>>>>>> 48321a75b36e224f872cbe0bc1b53900f1290e33
+<<<<<<< HEAD
 >>>>>>> b22482717d2b12a3e5aae5b4e736bb9feafd0724
+=======
+
+
+*ajout Isma*
+
+Quelle ne fut pas la surprise de tout le monde lors qu'un ane en mobilette débarqua en roue arrière venant des couloirs de l'enfer la gorge plein de glaire de la galere en roulant un sdeh ! 
+
+*fin d'ajout*
+>>>>>>> 9709451d6252b78d2d0fd9f86f03fef610bd5de3
