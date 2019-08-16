@@ -8,3 +8,6 @@ Cette instant hors du temps, ce moment unique et ce temps transcendant, cette ch
 
 # Bug?!
 *Si tu vois un oiseau blanc sur le lac, c'est un signe.* Mais peu de chance de voir le lac des cygnes sans **balais**. Apparemment dans tous les opéras `grouillent` des petits rats.
+
+
+Encore une tortue ninja ???
