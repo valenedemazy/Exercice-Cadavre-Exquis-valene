@@ -19,29 +19,32 @@ Le temps? Qu'est-ce que le temps? Conception très humaine, au niveau phyisque i
 
 Encore une tortue ninja ???
 ~~non c'est des bisounours~~
-<<<<<<< HEAD
->>>>>>> b22482717d2b12a3e5aae5b4e736bb9feafd0724
+
+
 =======
 =======
 Encore une tortue ninja ???
 ~~non c'est des bisounours~~
 
 
-<<<<<<< HEAD
 Hé Cindy, ça te dit un cinéma samedi ? 
 - *Ouai ça me dit samedi !*
->>>>>>> 4d9f3ad9b12c9926c9cefa73986285b2011e6eb0
+
 
 
 *ajout Isma*
 
 Quelle ne fut pas la surprise de tout le monde lors qu'un ane en mobilette débarqua en roue arrière venant des couloirs de l'enfer la gorge plein de glaire de la galere en roulant un sdeh ! 
-<<<<<<< HEAD
+
 
 *fin d'ajout*
+<<<<<<< HEAD
 >>>>>>> 9709451d6252b78d2d0fd9f86f03fef610bd5de3
 =======
 >>>>>>> 4d9f3ad9b12c9926c9cefa73986285b2011e6eb0
 # suite
 
-Un ciné samedi ça me dit mais plutôt lundi en fait..
+Un ciné samedi ça me dit mais plutôt lundi en fait...
+=======
+
+>>>>>>> e853be3823b22d174d12fa2bc60b81bbd969e983
