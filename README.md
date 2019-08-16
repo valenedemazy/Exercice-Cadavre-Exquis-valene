@@ -17,3 +17,6 @@ Cette instant hors du temps, ce moment unique et ce temps transcendant, cette ch
 Encore une tortue ninja ???
 ~~non c'est des bisounours~~
 >>>>>>> 48321a75b36e224f872cbe0bc1b53900f1290e33
+
+Hé Cindy, ça te dit un cinéma samedi ? 
+- *Ouai ça me dit samedi !*
